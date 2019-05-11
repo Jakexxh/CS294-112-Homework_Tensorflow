@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.iml
+.idea
+.vscode
+hw1/.DS_Store
